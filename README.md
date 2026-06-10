@@ -45,20 +45,6 @@ The project focuses on:
 
 ---
 
-## Project Structure
-
-
-├── main.py
-├── models.py
-├── products.py
-├── Greeks.py
-├── vizualisation.py
-├── values.py
-└── README.md
-
-
----
-
 ## Technologies
 
 * Python
